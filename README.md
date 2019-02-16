@@ -22,7 +22,7 @@ Seasoned Java Tech Lead / Full Stack Developer with 8 years of experience and a 
 
 ## Professional Experiences
 
-#### Sysco LABS Sri Lanka.
+#### Sysco LABS.
 #### Technical Lead (2019-February - To Date)
 
 
