@@ -21,8 +21,13 @@ Seasoned Java Tech Lead / Full Stack Developer with 8 years of experience and a 
    Good Agile
 
 ## Professional Experiences
+
+#### Sysco LABS.
+#### Technical Lead (2019-February - To Date)
+
+
 #### Fortude (Pvt) Ltd.
-#### Tech Lead (2017-January - To Date)
+#### Technical Lead (2017-January - 2019-February)
 ###### Infor Krypton
 
 Business Problem: Add Mobile Test Automation capability to Infor Krypton test automation framework.
@@ -51,7 +56,7 @@ Project Role:
 
 Technologies used: Java, hibernate, Spring (integration, security, batch modules), PostgreSQL, REST, Jenkins, Angular JS, Git, PayPal API, Swagger.
 
-#### Associate Tech Lead (2016-January – 2017-December)
+#### Associate Technical Lead (2016-January – 2017-December)
 
 Projects: API Framework, Avera eED, Avera BHS, Emergency Care Dashboard for USA Apache Healthcare Corporation
 Involved with full SDLC for each of these projects and working on technical design phase, develop phase and manage to team and lead to end of the project with estimated time lines. Involved project go live and post go live support.
